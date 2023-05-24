@@ -1,0 +1,11 @@
+.ShowScheduleButton{
+    background-image: url(Schedule.svg);
+    background-repeat: no-repeat;
+    border: none;
+    background-position: top center;
+    color: #245386;
+    height: 24px;
+    width: 24px;
+    background-color: #ffff;
+
+}

@@ -1,0 +1,9 @@
+.button_panel{
+    background-color: #FAFAFA;
+    height: 136px;
+    border-radius: 0 0 16px 16px;
+    border-top: 1px solid black;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 26px;
+}

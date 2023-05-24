@@ -1,0 +1,11 @@
+.EditButton{
+    background-image: url(Edit.svg);
+    background-repeat: no-repeat;
+    border: none;
+    background-position: top center;
+    color: #245386;
+    height: 24px;
+    width: 24px;
+    background-color: #fff;
+
+}
